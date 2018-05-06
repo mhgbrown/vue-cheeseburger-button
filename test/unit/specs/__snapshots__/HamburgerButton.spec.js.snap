@@ -1,11 +1,11 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`HamburgerButton.vue has the expected html structure 1`] = `
+exports[`CheeseburgerButton.vue has the expected html structure 1`] = `
 <button
   aria-controls="navigation"
   aria-expanded="false"
   aria-label="Menu"
-  class="hamburger-button"
+  class="cheeseburger-button"
   type="button"
 >
   <div

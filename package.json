@@ -1,11 +1,13 @@
 {
-  "name": "vue-hamburger-button",
+  "name": "vue-cheeseburger-button",
   "version": "1.0.0",
-  "description": "A simple, accessible hamburger menu button",
+  "description": "A simple, accessible cheeseburger menu button",
   "author": "Morgan Brown <brown.mhg+git@gmail.com>",
   "license": "MIT",
-  "main": "dist/vue-hamburger-button.js",
-  "dependencies": {},
+  "main": "dist/vue-cheeseburger-button.js",
+  "dependencies": {
+    "popmotion": "^8.1.22"
+  },
   "peerDependencies": {
     "vue": "^2.5.11"
   },

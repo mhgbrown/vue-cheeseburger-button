@@ -1,8 +1,8 @@
 import QuickStart from './pages/QuickStart.md'
-import HamburgerButton from './pages/HamburgerButton.md'
+import CheeseburgerButton from './pages/CheeseburgerButton.md'
 
 export default [
   { path: '/quick-start', component: QuickStart },
-  { path: '/hamburger-button', component: HamburgerButton },
+  { path: '/cheeseburger-button', component: CheeseburgerButton },
   { path: '*', redirect: '/quick-start' }
 ]

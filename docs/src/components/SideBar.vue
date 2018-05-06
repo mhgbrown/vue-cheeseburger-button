@@ -33,7 +33,7 @@ export default {
         {
           title: 'Components',
           pages: [
-            { to: '/hamburger-button', title: 'Hamburger Button' }
+            { to: '/cheeseburger-button', title: 'Cheeseburger Button' }
           ]
         }
       ]

@@ -1,5 +1,5 @@
-import HamburgerButton from './HamburgerButton.vue'
+import CheeseburgerButton from './CheeseburgerButton.vue'
 
 export {
-  HamburgerButton
+  CheeseburgerButton
 }

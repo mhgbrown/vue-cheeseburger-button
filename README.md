@@ -1,18 +1,18 @@
-# vue-hamburger-button
+# vue-cheeseburger-button
 
-> A simple, accessible hamburger menu button
+> A simple, accessible cheeseburger menu button
 
-![hamburger menu button](http://g.recordit.co/BP2V4xQIxt.gif)
+![cheeseburger menu button](http://g.recordit.co/BP2V4xQIxt.gif)
 
 ## Install
 
 ``` bash
-npm i vue-hamburger-button
+npm i vue-cheeseburger-button
 ```
 
 ## Usage
 
-See the [documentation](https://mhgbrown.github.io/vue-hamburger-button/dist/).
+See the [documentation](https://mhgbrown.github.io/vue-cheeseburger-button/dist/).
 
 ## Build Setup
 

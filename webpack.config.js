@@ -59,7 +59,7 @@ module.exports = {
   resolve: {
     alias: {
       'vue$': 'vue/dist/vue.esm.js',
-      'vue-hamburger-button': path.resolve('src')
+      'vue-cheeseburger-button': path.resolve('src')
     }
   },
   devServer: {

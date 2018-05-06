@@ -1,9 +1,9 @@
 import { mount } from 'vue-test-utils'
-import HamburgerButton from '@/components/HamburgerButton'
+import CheeseburgerButton from '@/components/CheeseburgerButton'
 
-const createComponent = propsData => mount(HamburgerButton, { propsData })
+const createComponent = propsData => mount(CheeseburgerButton, { propsData })
 
-describe('HamburgerButton.vue', () => {
+describe('CheeseburgerButton.vue', () => {
   let wrapper
 
   it('has the expected html structure', () => {
