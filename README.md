@@ -2,7 +2,7 @@
 
 > A simple, accessible cheeseburger menu button
 
-![cheeseburger menu button](http://g.recordit.co/BP2V4xQIxt.gif)
+![cheeseburger menu button](http://g.recordit.co/6fJxTJVGXU.gif)
 
 ## Install
 
