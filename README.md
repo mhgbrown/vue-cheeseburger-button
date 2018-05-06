@@ -4,12 +4,6 @@
 
 ![cheeseburger menu button](http://g.recordit.co/6fJxTJVGXU.gif)
 
-## Install
-
-``` bash
-npm i vue-cheeseburger-button
-```
-
 ## Usage
 
 See the [documentation](https://mhgbrown.github.io/vue-cheeseburger-button/dist/).
