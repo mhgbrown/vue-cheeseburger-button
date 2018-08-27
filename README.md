@@ -4,6 +4,10 @@
 
 ![cheeseburger menu button](http://g.recordit.co/6fJxTJVGXU.gif)
 
+## Hungry?
+
+https://the-internetshop.com/products/cheeseburger
+
 ## Usage
 
 See the [documentation](https://mhgbrown.github.io/vue-cheeseburger-button/dist/).
